@@ -1,4 +1,3 @@
-
 all: main-race main-deadlock main-deadlock-global main-signal main-signal-cv
 
 clean:
